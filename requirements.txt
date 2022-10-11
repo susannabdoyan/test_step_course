@@ -1,3 +1,2 @@
-python3.8
-pip3
-selenium~=4.4.3
+pytest==5.1.1
+selenium==3.14.0
